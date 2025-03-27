@@ -1,6 +1,6 @@
 
 # Credit Risk Assessment
-https://github.com/SyedAliNice/Credit-Risk-Assesment-with-ML-and-DL/blob/8bbf3173407a291da071467593f2d48006f66fd1/a-photograph-of-a-modern-office-with-a-s_SThdFjW2SdanGfn8cbPplQ_V_U3qBSFTpS8fqSrOS_Jfg-fotor-20250327141431.jpg
+![image alt](https://github.com/SyedAliNice/Credit-Risk-Assesment-with-ML-and-DL/blob/8bbf3173407a291da071467593f2d48006f66fd1/a-photograph-of-a-modern-office-with-a-s_SThdFjW2SdanGfn8cbPplQ_V_U3qBSFTpS8fqSrOS_Jfg-fotor-20250327141431.jpg)
 #   Project Overview
 
 This project focuses on credit risk assessment using machine learning and deep learning models. It utilizes various preprocessing techniques and machine learning algorithms to predict creditworthiness based on input financial data
